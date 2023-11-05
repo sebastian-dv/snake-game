@@ -16,7 +16,7 @@ public class Snake {
 	int bodyParts = 4;
 	
 	public Snake() {
-		
+		// aaaaa
 	}
 	
 	public class SnakeKeyAdapter extends KeyAdapter {
